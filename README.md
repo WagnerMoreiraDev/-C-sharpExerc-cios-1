@@ -1,2 +1,0 @@
-#  C sharpExercícios-1
- 
